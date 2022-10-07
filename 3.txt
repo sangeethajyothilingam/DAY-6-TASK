@@ -1,0 +1,12 @@
+3) Write a “person” class to hold all the details.
+class Person{va
+constructor(name,age,DOB,occupancy,salary){
+this.name=name,
+this.age=age,
+this.DOB=DOB,
+this.occupancy=occupancy,
+this.salary=salary
+}
+}
+var Person1=new Person("jothi","25", "17-8-1997","professional","40000");
+console.log(Person1);
